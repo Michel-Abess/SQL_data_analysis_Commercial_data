@@ -7,7 +7,7 @@ The company:
 Brazilian based company which operates hundreds of trucks of different types to collect and transport solid waste. the company would like to create a data warehouse so that it can create reports
 
 
-I populate the database created in postgreSQL with CSV files publish by the company through PgAdmin
+I populate the database created in postgreSQL with CSV files published by the company through PgAdmin
 I perform some exploratory analysis using SQL queries.
 
 
