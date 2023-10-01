@@ -1,0 +1,15 @@
+
+
+In this work I draw star-schema defining relation between fact and dimension table following the company process to analyse.
+
+The company:
+------------
+Brazilian based company which operates hundreds of trucks of different types to collect and transport solid waste. the company would like to create a data warehouse so that it can create reports
+
+
+I populate the database created in postgreSQL with CSV files publish by the company through PgAdmin
+I perform some exploratory analysis using SQL queries.
+
+
+
+Note : I also connect Data warehouse created with Cognos analytics, consultable via the link: https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FWaste%2Bcollected%2BFinal%2BProject&action=view&mode=dashboard 
